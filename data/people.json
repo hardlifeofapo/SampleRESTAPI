@@ -1,0 +1,23 @@
+{
+  "1" : {
+    "name" : "SpongeBob SquarePants",
+    "email" : "spongebob@krustykrab.com",
+    "twitter": {
+      "handle" : "spongebob"
+    }
+  },
+  "2" : {
+    "name" : "Patrick Star",
+    "email" : "patrick@krustykrab.com",
+    "twitter": {
+      "handle" : "patrickstar"
+    }
+  },
+  "3" : {
+    "name" : "Sandy Cheecks",
+    "email" : "squirrel@ocean.com",
+    "twitter": {
+      "handle" : "sandycheeks"
+    }
+  }
+}

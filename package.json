@@ -1,0 +1,13 @@
+{
+  "name": "SampleRESTAPI",
+  "version": "0.0.1",
+  "repository": "https://github.com/hardlifeofapo/SampleRESTAPI",
+  "dependencies": {
+    "body-parser": "*",
+    "method-override": "*",
+    "express": "4.x",
+    "serve-favicon": "*",
+    "morgan" : "*",
+    "uuid": "*"
+  }
+}
